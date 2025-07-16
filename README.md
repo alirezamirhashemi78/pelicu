@@ -32,7 +32,7 @@ The system creates a feature vector for each item and uses **cosine similarity**
 
 Here’s a sneak peek at the current design of the website (still in development):
 
-![Pelicu UI Preview](./pelicu-mookup.jpg)
+![Pelicu UI Preview](./images/pelicu-mookup.jp)
 
 ---
 
