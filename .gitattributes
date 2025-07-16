@@ -1,7 +1,0 @@
-# Ignore static files (HTML/CSS/JS) in language stats
-static/** linguist-vendored
-media/** linguist-vendored
-templates/** linguist-vendored
-
-
-# Ensure Python files are counted
